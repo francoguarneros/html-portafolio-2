@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+footer{Franco Guarneros]
+<head>
+  <h1>My Resume</h1>
+</head>
+<body>
+<h2> Summary </h2>
+<h3>Im a hard working Web Developer, with experince and lots of motivation</h3>
+<hr>
+<h2>Education</h2>
+<h3>
+  <ul>High School Udemy
+ Web Development Tutoria </ul>
+     </h3>
+<hr>
+<h2>Work Experience</h2>
+  <h3>Fincancial Reporter at Arquitectual Firm</h3>
+  <hr>
+<h2>Skills</h2>
+  <h3>
+    -Web Developer 
+  </h3>
+  <hr>
+  <h2>Awards and Certification</h2>
+  <h3>None</h3>
+  <hr>
+  <h2>Other</h2>
+  <a href"/Users/francoguarneros/Downloads/4.1+Webpages/public/contact.html>Contact Me"</a>
+</body>
